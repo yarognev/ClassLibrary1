@@ -5,6 +5,6 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace ClassLibrary1 {
-    class Class2 {
+    class Class2e {
     }
 }
