@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ClassLibrary1
 {
-    public clasds Class1hu
+    public clasds Class1hufd
     {
 	//no
     }
