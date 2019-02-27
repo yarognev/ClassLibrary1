@@ -9,5 +9,6 @@ namespace ClassLibrary1
     public classа Class1hufd
     {
 	//no
+	//да
     }
 }
